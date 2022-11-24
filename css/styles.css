@@ -760,7 +760,7 @@ section {
 .footer__copy {
   font-size: var(--smaller-font-size);
   text-align: center;
-  color: rgb(217, 217, 217);
+  color: rgb(228, 207, 207);
 }
 .footer__title,
 .footer__link,
